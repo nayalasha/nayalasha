@@ -8,7 +8,13 @@
 
 ## 🛠️ Skills
 
-* Python (beginner)
+* Python (Intermediate)
+* React  (Beginner)
+* C (Beginner)
+* HTML (Intermediate)
+* CSS (Intermediate)
+* Java (Beginner)
+* TypeScript (Beginner)
 * Basic problem solving
 * Learning debugging
 
@@ -17,6 +23,8 @@
 ## 📂 Projects
 
 * 🔐 Password Generator (Python)
+* 🔐 Password Manager (Python)
+  
 
 ---
 
